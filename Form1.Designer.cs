@@ -55,7 +55,7 @@
             this.btn1.TabStop = false;
             this.btn1.Tag = "0";
             this.btn1.UseVisualStyleBackColor = true;
-            this.btn1.Click += new System.EventHandler(this.button1_Click);
+            this.btn1.Click += new System.EventHandler(this.ChooseCell);
             // 
             // btn2
             // 
@@ -68,7 +68,7 @@
             this.btn2.TabStop = false;
             this.btn2.Tag = "1";
             this.btn2.UseVisualStyleBackColor = true;
-            this.btn2.Click += new System.EventHandler(this.button2_Click);
+            this.btn2.Click += new System.EventHandler(this.ChooseCell);
             // 
             // btn3
             // 
@@ -81,7 +81,7 @@
             this.btn3.TabStop = false;
             this.btn3.Tag = "2";
             this.btn3.UseVisualStyleBackColor = true;
-            this.btn3.Click += new System.EventHandler(this.button3_Click);
+            this.btn3.Click += new System.EventHandler(this.ChooseCell);
             // 
             // btn6
             // 
@@ -94,7 +94,7 @@
             this.btn6.TabStop = false;
             this.btn6.Tag = "5";
             this.btn6.UseVisualStyleBackColor = true;
-            this.btn6.Click += new System.EventHandler(this.button4_Click);
+            this.btn6.Click += new System.EventHandler(this.ChooseCell);
             // 
             // btn5
             // 
@@ -107,7 +107,7 @@
             this.btn5.TabStop = false;
             this.btn5.Tag = "4";
             this.btn5.UseVisualStyleBackColor = true;
-            this.btn5.Click += new System.EventHandler(this.button5_Click);
+            this.btn5.Click += new System.EventHandler(this.ChooseCell);
             // 
             // btn4
             // 
@@ -120,7 +120,7 @@
             this.btn4.TabStop = false;
             this.btn4.Tag = "3";
             this.btn4.UseVisualStyleBackColor = true;
-            this.btn4.Click += new System.EventHandler(this.button6_Click);
+            this.btn4.Click += new System.EventHandler(this.ChooseCell);
             // 
             // btn9
             // 
@@ -133,7 +133,7 @@
             this.btn9.TabStop = false;
             this.btn9.Tag = "8";
             this.btn9.UseVisualStyleBackColor = true;
-            this.btn9.Click += new System.EventHandler(this.button7_Click);
+            this.btn9.Click += new System.EventHandler(this.ChooseCell);
             // 
             // btn8
             // 
@@ -146,7 +146,7 @@
             this.btn8.TabStop = false;
             this.btn8.Tag = "7";
             this.btn8.UseVisualStyleBackColor = true;
-            this.btn8.Click += new System.EventHandler(this.button8_Click);
+            this.btn8.Click += new System.EventHandler(this.ChooseCell);
             // 
             // btn7
             // 
@@ -159,7 +159,7 @@
             this.btn7.TabStop = false;
             this.btn7.Tag = "6";
             this.btn7.UseVisualStyleBackColor = true;
-            this.btn7.Click += new System.EventHandler(this.button9_Click);
+            this.btn7.Click += new System.EventHandler(this.ChooseCell);
             // 
             // label1
             // 
