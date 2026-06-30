@@ -1,6 +1,6 @@
 ﻿# Tic Tac Toe Game X - O
 
-![Game Screenshot](images/screenshot.png)
+![Game Screenshot](images/Screenshot.png)
 
 A simple Tic Tac Toe desktop game developed using **C#** and **Windows Forms**.
 
